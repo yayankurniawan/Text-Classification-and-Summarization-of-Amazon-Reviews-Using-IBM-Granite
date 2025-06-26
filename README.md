@@ -42,7 +42,7 @@ Analisis dilakukan menggunakan Python di Google Colab. Sentiment analysis dilaku
 ### Summarization
 ![image](https://github.com/user-attachments/assets/fc27ebd2-e5f1-458f-b061-e7c8b0e8ea0c)
 - 100 ulasan positif dan negatif digabungkan dan disarikan secara manual.
-- Hasil ini kemudian dibandingkan dengan hasil ringkasan dari AI (LLM/IBM Granite).
+- Hasil ini kemudian dibandingkan dengan hasil ringkasan dari AI (LLM).
 
 
 ## Insight & Findings
